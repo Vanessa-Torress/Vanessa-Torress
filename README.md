@@ -1,5 +1,5 @@
 [![Header]<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=SEU+NOME+AQUI;Software+Engineer;Bem-vindo+ao+meu+perfil">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2F3dTl4cXh2ejA2Ynl6eXBibm4weGVqeW83MjhhM3NsczEwMWxweSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Udnz3Cf9ZP8rv8L10a/giphy.gif">
 </p>
 
 ##### Hi, I'm Vanessa:
