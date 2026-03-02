@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="banner.gif" alt="Banner Vanessa Torres" width="100%">
+  <img src="banner.gif.mp4" alt="Banner Vanessa Torres" width="100%">
 </p>
-
 
 ##### Hi, I'm Vanessa:
 
