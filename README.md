@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Vanessa-Torress/Vanessa-Torress/main/banner.gif.mp4.gif" width="100%">
+  <img src="https://raw.githubusercontent.com/Vanessa-Torress/Vanessa-Torress/main/banner.gif.mp4" width="100%">
 </p>
 
 ##### Hi, I'm Vanessa:
