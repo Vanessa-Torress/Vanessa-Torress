@@ -1,10 +1,8 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Vanessa-Torress/Vanessa-Torress/main/banner.gif.mp4" width="100%">
-</p>
+
 
 ##### Hi, I'm Vanessa:
 
-- 🎓Formada em Análise e Desenvolvimento de Sistemas
+- 🎓 Graduated in Análise e Desenvolvimento de Sistemas
 
 ##### Languages I use
 
