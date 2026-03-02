@@ -7,7 +7,7 @@
 - 🎓Formada em Análise e Desenvolvimento de Sistemas
 - :mailbox: Você pode me contatar pelos links a baixo.
 
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aalston9@gmail.com)
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](vanessatorressiqueira@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adammalston/)
 [![adamalston.com](https://img.shields.io/badge/-ADAMALSTON.COM-000000?style=for-the-badge&logo=react&logoColor=white)](https://www.adamalston.com/)
 
