@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="banner.gif.mp4" width="100%">
-</p>
+
 
 ##### Hi, I'm Vanessa:
 
