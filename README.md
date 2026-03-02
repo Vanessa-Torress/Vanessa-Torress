@@ -6,9 +6,6 @@
 
 - 🎓Formada em Análise e Desenvolvimento de Sistemas
 
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/adammalston/](https://www.linkedin.com/in/vanessa-torrees/))
-
-
 ##### Languages I use
 
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
