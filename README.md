@@ -53,7 +53,6 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 >>> [ '🐔', '🐣', '🐥', '🥚' ]
 ```
 
-⭐️ From [AdamAlston](https://github.com/adamalston)
 
 <!--
 - 🔭 I’m currently working on ...
