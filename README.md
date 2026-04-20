@@ -26,7 +26,7 @@
 ### 🛠️ Tech Stack & Skills
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=windows,vscode,git,github,powershell,js,react,nodejs" />
+  <img src="https://skillicons.dev/icons?i=windows,vscode,html,css,git,github,powershell,js,react,nodejs" />
 </div>
 
 <br>
