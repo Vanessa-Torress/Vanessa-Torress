@@ -45,6 +45,9 @@
   <a href="https://wa.me/+5534997816372" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
+  <a href="mailto:vanessatorressiqueira@hotmail.com">
+  <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook" />
+</a>
 </div>
 
 <br>
