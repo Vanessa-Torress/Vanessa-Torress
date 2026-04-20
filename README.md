@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?color=ff6f9f&size=25&center=true&vCenter=true&width=1000&lines=Auxiliar+de+Suporte+de+TI;Focada+em+Infraestrutura+e+Soluções+Tecnológicas;Bem-vindo(a)+ao+meu+perfil!;Tech+Enthusiast+%26+Problem+Solver" alt="Typing SVG" />
   </a>
   <br>
-  <b><code style="color: #ff6f9f;">Infrastructure | Microsoft 365 | IT Operations</code></b>
+  <b><code style="color: #ff6f9f;">Infrastructure | IT Operations</code></b>
 </div>
 
 <br>
