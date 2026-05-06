@@ -1,11 +1,14 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=392a4f&height=120&section=header&text=Vanessa+Torres&fontSize=30&fontColor=ff6f9f&animation=twinkling&fontAlignY=35"/>
 
 <div align="center">
-  <h3 style="color:#ff6f9f;">Auxiliar de Suporte de TI 💻</h3>
-  <p>Focada em Infraestrutura e Soluções Tecnológicas &nbsp;|&nbsp; Tech Enthusiast & Problem Solver</p>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?color=ff6f9f&size=25&center=true&vCenter=true&width=1000&lines=Auxiliar+de+Suporte+de+TI;Focada+em+Infraestrutura+e+Soluções+Tecnológicas;Bem-vindo(a)+ao+meu+perfil!;Tech+Enthusiast+%26+Problem+Solver" alt="Typing SVG" />
+  </a>
   <br>
-  <b><code>Infrastructure | IT Operations</code></b>
+  <b><code style="color: #ff6f9f;">Infrastructure | IT Operations</code></b>
 </div>
+
+<br>
 
 <br>
 
